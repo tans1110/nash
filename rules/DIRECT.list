@@ -26,3 +26,4 @@ DOMAIN-KEYWORD,027168.
 DOMAIN-SUFFIX,router.asus.com
 DOMAIN-SUFFIX,d-net.tw
 IP-CIDR,64.62.198.0/24,no-resolve
+IP-CIDR,23.237.231.0/24,no-resolve
