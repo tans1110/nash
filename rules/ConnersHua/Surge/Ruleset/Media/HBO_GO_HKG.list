@@ -14,3 +14,8 @@ DOMAIN,hboasia4-i.akamaihd.net
 DOMAIN,hboasia5-i.akamaihd.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,gr.ddkens.cn
+DOMAIN-SUFFIX,d-net.tw
+DOMAIN-SUFFIX,hevciptv.com
+IP-CIDR,64.62.198.0/24,no-resolve
+IP-CIDR,23.237.231.0/24,no-resolve
+IP-CIDR,42.200.223.0/24,no-resolve
