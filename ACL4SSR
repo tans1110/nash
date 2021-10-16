@@ -25,7 +25,7 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 
 
 
-custom_proxy_group=🔰 节点选择`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`(vmess|中转)
+custom_proxy_group=🔰 节点选择`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`(vmess)
 custom_proxy_group=📲 电报吹水`select`[]🇸🇬 狮城节点`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`(新|狮城|SG|Singa)
 custom_proxy_group=📹 YouTube`select`[]🔰 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT
 custom_proxy_group=🎥 NETFLIX`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT
@@ -33,7 +33,7 @@ custom_proxy_group=📺 DisneyPlus`select`[]🔰 节点选择`[]🇭🇰 香港�
 custom_proxy_group=📺 PrimeVideo`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT`(Australia|Sydney)
 custom_proxy_group=📺 MeWatch`select`[]🇸🇬 狮城节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=📺 TaiwanTV`select`[]🇨🇳 台湾节点`[]🚀 手动切换`[]DIRECT
-custom_proxy_group=📺 EMBY`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT`(vmess|中转)
+custom_proxy_group=📺 EMBY`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT`(vmess)
 custom_proxy_group=🇭🇰 香港节点`select`(港|HK|HONG|Hong|HGC)
 custom_proxy_group=🇨🇳 台湾节点`select`(台|新北|彰化|TW|Tai)
 custom_proxy_group=🇸🇬 狮城节点`select`(新|狮城|SG|Singa)
@@ -45,15 +45,13 @@ custom_proxy_group=🌏 港台媒体`select`[]🇸🇬 狮城节点`[]🇭🇰 �
 custom_proxy_group=🌍 国外媒体`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT
 custom_proxy_group=🍎 苹果服务`select`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点
 custom_proxy_group=Ⓜ️ 微软服务`select`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点
-custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]🔰 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT
+custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🔰 节点选择
+custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
+custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT
 
 
 
 enable_rule_generator=true
-
 overwrite_original_rules=true
-
-
-
 clash_rule_base=https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GeneralClashConfig.yml
