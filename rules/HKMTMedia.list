@@ -75,6 +75,8 @@ DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.tv.qq.com
 DOMAIN,wetv.acc.qq.com
+IP-CIDR,150.109.28.51/32,no-resolve
+
 // DOMAIN,oth.eve.mdt.qq.com
 // DOMAIN,oth.str.mdt.qq.com
 // DOMAIN-SUFFIX,meovse.com
