@@ -70,18 +70,23 @@ DOMAIN-SUFFIX,im9.com
 
 
 # > WeTV
-// USER-AGENT,WeTV*
+# NAME: WeTV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-08-13 16:08:27
+# PROCESS-NAME: 2
+# DOMAIN-SUFFIX: 7
+# USER-AGENT: 1
+# IP-CIDR: 1
+# TOTAL: 11
+DOMAIN-SUFFIX,iflix-images.akamaized.net
+DOMAIN-SUFFIX,iflix.com
+DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,v.smtcdns.net
+DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN,wetv.tv.qq.com
-DOMAIN,wetv.acc.qq.com
 IP-CIDR,150.109.28.51/32,no-resolve
-
-// DOMAIN,oth.eve.mdt.qq.com
-// DOMAIN,oth.str.mdt.qq.com
-// DOMAIN-SUFFIX,meovse.com
-
-// IP-CIDR,203.205.136.0/23,no-resolve #如直连，请加入代理
-
-// URL-REGEX,^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/varietyts\.tc\.qq\.com
-// force-http-engine-hosts = %APPEND% 203.205.13?.*
+USER-AGENT,WeTV*
+PROCESS-NAME,com.tencent.qqlivei18n
+PROCESS-NAME,com.tencent.qqlivei18n.us
