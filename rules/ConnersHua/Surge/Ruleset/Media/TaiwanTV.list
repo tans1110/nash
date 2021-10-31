@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,litv.tv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 # > Myvideo
 DOMAIN-SUFFIX,myvideo.net.tw
+DOMAIN-SUFFIX,catch.net.tw
 # > Hamivideo
 DOMAIN-KEYWORD,hamivideo
 DOMAIN-SUFFIX,holmesmind.com
