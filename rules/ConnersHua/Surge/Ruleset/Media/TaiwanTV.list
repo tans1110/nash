@@ -4,8 +4,11 @@ DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 # > Myvideo
 DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN-SUFFIX,catch.net.tw
+DOMAIN,a1879.dscw14.akamai.net
 # > Hamivideo
 DOMAIN-KEYWORD,hamivideo
 DOMAIN-SUFFIX,holmesmind.com
 DOMAIN-SUFFIX,eland-tech.com
 DOMAIN-SUFFIX,hinet.net
+IP-CIDR,202.39.225.0/24,no-resolve
+//IP-CIDR,202.39.0.0/16,no-resolve
