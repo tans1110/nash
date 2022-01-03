@@ -286,3 +286,7 @@ DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,media.starott.com
 DOMAIN-SUFFIX,conviva.com
 DOMAIN,tglmp02.akamaized.net.net
+
+# > Roku
+DOMAIN-SUFFIX,roku.com
+DOMAIN-SUFFIX,rokutime.com
