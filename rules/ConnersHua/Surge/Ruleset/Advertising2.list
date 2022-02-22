@@ -253,8 +253,8 @@ DOMAIN,saxn.sina.com.cn
 DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
-DOMAIN,hui.sohu.com
-# > Snapcha‪t‬
+DOMAIN,hui.sohu.com‬
+# > Snapchat
 DOMAIN,ads.snapchat.com
 DOMAIN,adsapi.snapchat.com
 # > Skyworth
@@ -353,13 +353,13 @@ DOMAIN,ads.yahoo.de
 
 # (Z)
 # > Zhihu
-USER-AGENT,AVOS*
-DOMAIN,appcloud2.in.zhihu.com
-DOMAIN,mqtt.zhihu.com
+//USER-AGENT,AVOS*
+//DOMAIN,appcloud2.in.zhihu.com
+//DOMAIN,mqtt.zhihu.com
 //DOMAIN,sugar.zhihu.com
-DOMAIN,118.89.204.198
-IP-CIDR,118.89.204.198/32,no-resolve
-IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
+//DOMAIN,118.89.204.198
+//IP-CIDR,118.89.204.198/32,no-resolve
+//IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
 # > ZOL
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
