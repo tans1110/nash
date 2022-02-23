@@ -67,25 +67,7 @@ DOMAIN-KEYWORD,abematv.akamaized.net
 USER-AGENT,All4*
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
-# > Amazon Prime Video
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
-DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,aiv-delivery.net
-DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,media-amazon.com
-DOMAIN,atv-ps.amazon.com
-DOMAIN,fls-na.amazon.com
-DOMAIN,avodmp4s3ww-a.akamaihd.net
-DOMAIN,d25xi40x97liuc.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN,d22qjgkvxw22r6.cloudfront.net
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net
-DOMAIN,d27xxe7juh1us6.cloudfront.net
-# DOMAIN,www.amazon.com
-DOMAIN-KEYWORD,avoddashs
+
 # > Apple TV
 DOMAIN,linear.tv.apple.com
 DOMAIN,play-edge.itunes.apple.com
@@ -96,7 +78,7 @@ DOMAIN,np-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
-PROCESS-NAME,tv
+//PROCESS-NAME,tv
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
@@ -137,17 +119,10 @@ DOMAIN,edge.api.brightcove.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 # > HBO NOW & Max
 USER-AGENT,HBO%20NOW*
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbonow.com
 USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 
-# > 华文电视
-USER-AGENT,HWTVMobile*
-DOMAIN-SUFFIX,5itv.tv
-DOMAIN-SUFFIX,ocnttv.com
 # > Hulu
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
@@ -161,19 +136,8 @@ USER-AGENT,ITV_Player*
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
 DOMAIN,itvpnpmobile-a.akamaihd.net
-# > KKTV
-USER-AGENT,KKTV*
-USER-AGENT,com.kktv.ios.kktv*
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,kktv.me
-DOMAIN,kktv-theater.kk.stream
-# > LINE TV
-USER-AGENT,LINE%20TV*
-DOMAIN-SUFFIX,linetv.tw
-DOMAIN,d3c7rimkq79yfu.cloudfront.net
-# > LiTV
-DOMAIN-SUFFIX,litv.tv
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+
+
 # > MangoTV(芒果TV国际)
 DOMAIN-SUFFIX,api.mgtv.com
 DOMAIN,mobileso.bz.mgtv.com
@@ -182,47 +146,12 @@ USER-AGENT,My5*
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
 DOMAIN,d349g9zuie06uo.cloudfront.net
-# > myTV SUPER
-USER-AGENT,mytv*
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
+
 # > Naver TV
 USER-AGENT,Naver%20TV*
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
-# > Netflix
-USER-AGENT,Argo*
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
-DOMAIN-SUFFIX,netflixdnstest0.com
-DOMAIN-SUFFIX,netflixdnstest1.com
-DOMAIN-SUFFIX,netflixdnstest2.com
-DOMAIN-SUFFIX,netflixdnstest3.com
-DOMAIN-SUFFIX,netflixdnstest4.com
-DOMAIN-SUFFIX,netflixdnstest5.com
-DOMAIN-SUFFIX,netflixdnstest6.com
-DOMAIN-SUFFIX,netflixdnstest7.com
-DOMAIN-SUFFIX,netflixdnstest8.com
-DOMAIN-SUFFIX,netflixdnstest9.com
-DOMAIN-KEYWORD,dualstack.apiproxy-
-DOMAIN-KEYWORD,dualstack.ichnaea-web-
-IP-CIDR,23.246.0.0/18,no-resolve
-IP-CIDR,37.77.184.0/21,no-resolve
-IP-CIDR,45.57.0.0/17,no-resolve
-IP-CIDR,64.120.128.0/17,no-resolve
-IP-CIDR,66.197.128.0/17,no-resolve
-IP-CIDR,108.175.32.0/20,no-resolve
-IP-CIDR,192.173.64.0/18,no-resolve
-IP-CIDR,198.38.96.0/19,no-resolve
-IP-CIDR,198.45.48.0/20,no-resolve
-IP-CIDR,34.210.42.111/32,no-resolve
-IP-CIDR,52.89.124.203/32,no-resolve
-IP-CIDR,54.148.37.5/32,no-resolve
+
 # > niconico
 USER-AGENT,Niconico*
 DOMAIN-SUFFIX,dmc.nico
@@ -253,10 +182,7 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
-# > 台湾好
-USER-AGENT,TaiwanGood*
-DOMAIN-SUFFIX,skyking.com.tw
-DOMAIN,hamifans.emome.net
+
 # > TikTok
 USER-AGENT,TikTok*
 DOMAIN-SUFFIX,byteoversea.com
@@ -273,14 +199,7 @@ USER-AGENT,TVer-Release*
 DOMAIN-SUFFIX,tver.jp
 DOMAIN,edge.api.brightcove.com
 
-# > YouTube
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
+
 # > Star+
 // 此条分流只是让 Star+ 串流时走 US 节点，需搭配 Star+ 相关分流使用
 DOMAIN-SUFFIX,media.starott.com
