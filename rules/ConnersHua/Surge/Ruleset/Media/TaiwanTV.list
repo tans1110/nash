@@ -17,3 +17,22 @@ DOMAIN-SUFFIX,eland-tech.com
 DOMAIN-SUFFIX,hinet.net
 IP-CIDR,202.39.225.0/24,no-resolve
 //IP-CIDR,202.39.0.0/16,no-resolve
+
+# > KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN,kktv-theater.kk.stream
+# > LINE TV
+USER-AGENT,LINE%20TV*
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+# > 华文电视
+USER-AGENT,HWTVMobile*
+DOMAIN-SUFFIX,5itv.tv
+DOMAIN-SUFFIX,ocnttv.com
+# > 台湾好
+USER-AGENT,TaiwanGood*
+DOMAIN-SUFFIX,skyking.com.tw
+DOMAIN,hamifans.emome.net
