@@ -30,3 +30,5 @@ DOMAIN-SUFFIX,hevciptv.com
 IP-CIDR,64.62.198.0/24,no-resolve
 IP-CIDR,23.237.231.0/24,no-resolve
 IP-CIDR,42.200.223.0/24,no-resolve
+# > tvfix
+DOMAIN-KEYWORD,tvfix
