@@ -145,8 +145,8 @@ DOMAIN,itvpnpmobile-a.akamaihd.net
 
 
 # > MangoTV(芒果TV国际)
-DOMAIN-SUFFIX,api.mgtv.com
-DOMAIN,mobileso.bz.mgtv.com
+//DOMAIN-SUFFIX,api.mgtv.com
+//DOMAIN,mobileso.bz.mgtv.com
 # > My5
 USER-AGENT,My5*
 DOMAIN-SUFFIX,channel5.com
