@@ -92,6 +92,13 @@ DOMAIN,tv.applemusic.com
 DOMAIN,linear.tv.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,uts-api.itunes.apple.com
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*
+PROCESS-NAME,tv
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
@@ -105,13 +112,6 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
-# > bilibili Intl
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN,apm-misaka.biliapi.net
-DOMAIN,p.bstarstatic.com
-DOMAIN,p-bstarstatic.akamaized.net
-DOMAIN,upos-bstar-mirrorakam.akamaized.net
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 # > DAZN
 USER-AGENT,DAZN*
 DOMAIN-SUFFIX,dazn.com
@@ -165,26 +165,6 @@ USER-AGENT,ITV_Player*
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
 DOMAIN,itvpnpmobile-a.akamaihd.net
-# > iQIYI
-DOMAIN-SUFFIX,iq.com
-DOMAIN,intl.iqiyi.com
-DOMAIN,intl-rcd.iqiyi.com
-DOMAIN,intl-subscription.iqiyi.com
-IP-CIDR,23.53.32.88/32,no-resolve
-IP-CIDR,23.211.15.99/32,no-resolve
-IP-CIDR,103.5.34.153/32,no-resolve
-IP-CIDR,104.109.129.153/32,no-resolve
-IP-CIDR,110.238.107.47/32,no-resolve
-IP-CIDR,118.26.32.178/32,no-resolve
-IP-CIDR,203.74.95.131/32,no-resolve
-IP-CIDR,203.74.95.139/32,no-resolve
-IP-CIDR,203.74.95.153/32,no-resolve
-IP-CIDR,203.211.4.169/32,no-resolve
-IP-CIDR,203.211.4.193/32,no-resolve
-IP-CIDR,210.71.227.200/32,no-resolve
-IP-CIDR,210.71.227.202/32,no-resolve
-IP-CIDR,210.201.32.8/32,no-resolve
-IP-CIDR,210.201.32.11/32,no-resolve
 # > KKTV
 USER-AGENT,KKTV*
 USER-AGENT,com.kktv.ios.kktv*
