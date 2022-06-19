@@ -1,6 +1,8 @@
 # (HKMTMedia)
 # > 愛奇藝台灣站
-//IP-CIDR,101.224.0.0/13,no-resolve
+DOMAIN,cache.video.iqiyi.com
+IP-CIDR,116.211.202.206/32,no-resolve
+IP-CIDR,116.211.202.216/32,no-resolve
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,71edge.com
