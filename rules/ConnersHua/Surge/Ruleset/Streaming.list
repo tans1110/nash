@@ -98,7 +98,7 @@ DOMAIN,np-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
-PROCESS-NAME,tv
+# PROCESS-NAME,tv
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
