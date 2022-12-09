@@ -1,0 +1,31 @@
+DOMAIN-KEYWORD,sandai.
+DOMAIN-KEYWORD,so.c
+DOMAIN-KEYWORD,360.c
+DOMAIN-SUFFIX,shifen.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-KEYWORD,dafahao.
+DOMAIN-KEYWORD,minghui.
+DOMAIN-KEYWORD,dongtaiwang.
+DOMAIN-KEYWORD,epochtimes.
+DOMAIN-KEYWORD,ntdtv.
+DOMAIN-KEYWORD,falundafa.
+DOMAIN-KEYWORD,wujieliulan.
+DOMAIN-SUFFIX,wish.ga
+DOMAIN-KEYWORD,guerrillamail.
+DOMAIN-KEYWORD,guerrillamailblock.
+DOMAIN-KEYWORD,sharklasers.
+DOMAIN-KEYWORD,grr.
+DOMAIN-KEYWORD,pokemail.
+DOMAIN-KEYWORD,spam4.
+DOMAIN-KEYWORD,bccto.
+DOMAIN-KEYWORD,chacuo.
+DOMAIN-KEYWORD,027168.
+DOMAIN-SUFFIX,router.asus.com
+# > gotv
+DOMAIN-SUFFIX,d-net.tw
+DOMAIN-SUFFIX,hevciptv.com
+IP-CIDR,64.62.198.0/24,no-resolve
+IP-CIDR,23.237.231.0/24,no-resolve
+IP-CIDR,42.200.223.0/24,no-resolve
+# > tvfix
+DOMAIN-KEYWORD,tvfix
