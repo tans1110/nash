@@ -11,6 +11,6 @@ DOMAIN,star.playback.edge.bamgrid.com
 // DOMAIN,prod-ripcut-delivery.disney-plus.net
 
 
-DOMAIN-SUFFIX,media.starott.com
-DOMAIN-SUFFIX,conviva.com
-DOMAIN,tglmp02.akamaized.net.net
+# DOMAIN-SUFFIX,media.starott.com
+# DOMAIN-SUFFIX,conviva.com
+# DOMAIN,tglmp02.akamaized.net.net
