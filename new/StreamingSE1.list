@@ -12,8 +12,6 @@ DOMAIN,www.bilibili.com
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
 # > 愛奇藝台灣站
 # > iQIYI
-DOMAIN-SUFFIX,iq.com
-DOMAIN,intl.iqiyi.com
 DOMAIN,intl-rcd.iqiyi.com
 DOMAIN,intl-subscription.iqiyi.com
 DOMAIN,cache.video.iqiyi.com
