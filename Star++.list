@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,media.starott.com
 DOMAIN-SUFFIX,cws.conviva.com
 DOMAIN-SUFFIX,tglmp02.akamaized.net.net
 DOMAIN-SUFFIX,disney.my.sentry.io
+# > Roku
+DOMAIN-SUFFIX,roku.com
+DOMAIN-SUFFIX,rokutime.com
