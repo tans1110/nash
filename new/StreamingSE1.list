@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,cn-hk-eq-bcache-
 # > iQIYI
 DOMAIN-SUFFIX,iq.com
 DOMAIN,intl.iqiyi.com
+DOMAIN,intl-subscription.iqiyi.com
 DOMAIN,cache.video.iqiyi.com
 IP-CIDR,116.211.202.206/32,no-resolve
 IP-CIDR,116.211.202.216/32,no-resolve
