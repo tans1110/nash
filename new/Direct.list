@@ -29,5 +29,3 @@ IP-CIDR,23.237.231.0/24,no-resolve
 IP-CIDR,42.200.223.0/24,no-resolve
 # > tvfix
 DOMAIN-KEYWORD,tvfix
-# > nebula-emby
-DOMAIN-SUFFIX,nebula-emby.com
