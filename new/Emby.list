@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,222921.xyz
 DOMAIN-SUFFIX,emby.wtf
 
+# > nebula-emby
+DOMAIN-SUFFIX,nebula-emby.com
+
 # > 流媒体Exflux服务器
 DOMAIN,line.emby.men
 
