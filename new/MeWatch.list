@@ -1,6 +1,8 @@
 # NAME: MeWatch
 DOMAIN-SUFFIX,mewatch.sg
 DOMAIN-SUFFIX,uid.mediacorp.sg
+DOMAIN-SUFFIX,kaltura.com
+DOMAIN-SUFFIX,sensic.net
 DOMAIN-KEYWORD,mediacorp
 DOMAIN-KEYWORD,toggle
 DOMAIN-KEYWORD,mewatch
