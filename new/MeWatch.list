@@ -2,5 +2,7 @@
 DOMAIN-SUFFIX,mewatch.sg
 DOMAIN-SUFFIX,uid.mediacorp.sg
 DOMAIN-KEYWORD,mediacorp
+DOMAIN-KEYWORD,toggle
+DOMAIN-KEYWORD,mewatch
 DOMAIN-KEYWORD,togglestatic
 DOMAIN,tglmp02.akamaized.net
