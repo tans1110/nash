@@ -32,6 +32,7 @@ DOMAIN-KEYWORD,hamivideo
 DOMAIN-SUFFIX,holmesmind.com
 DOMAIN-SUFFIX,eland-tech.com
 DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,.tw
 IP-CIDR,202.39.225.0/24,no-resolve
 //IP-CIDR,202.39.0.0/16,no-resolve
 
