@@ -96,12 +96,12 @@ DOMAIN,linear.tv.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,uts-api.itunes.apple.com
 # > Bahamut
-USER-AGENT,Anime*
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN,bahamut.akamaized.net
-DOMAIN,gamer-cds.cdn.hinet.net
-DOMAIN,gamer2-cds.cdn.hinet.net
+# USER-AGENT,Anime*
+# DOMAIN-SUFFIX,bahamut.com.tw
+# DOMAIN-SUFFIX,gamer.com.tw
+# DOMAIN,bahamut.akamaized.net
+# DOMAIN,gamer-cds.cdn.hinet.net
+# DOMAIN,gamer2-cds.cdn.hinet.net
 # > BBC iPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-SUFFIX,bbc.co.uk
@@ -135,13 +135,13 @@ DOMAIN-SUFFIX,dnitv.com
 DOMAIN,x-default-stgec.uplynk.com
 DOMAIN-KEYWORD,discovery.uplynk.com
 # > Disney+
-USER-AGENT,Disney+*
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,disneystreaming.com
-DOMAIN-SUFFIX,dssott.com
-DOMAIN,cdn.registerdisney.go.com
+# USER-AGENT,Disney+*
+# DOMAIN-SUFFIX,bamgrid.com
+# DOMAIN-SUFFIX,disneyplus.com
+# DOMAIN-SUFFIX,disney-plus.net
+# DOMAIN-SUFFIX,disneystreaming.com
+# DOMAIN-SUFFIX,dssott.com
+# DOMAIN,cdn.registerdisney.go.com
 # > DMM
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
