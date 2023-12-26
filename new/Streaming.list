@@ -109,12 +109,12 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 # > bilibili Intl
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN,apm-misaka.biliapi.net
-DOMAIN,p.bstarstatic.com
-DOMAIN,p-bstarstatic.akamaized.net
-DOMAIN,upos-bstar-mirrorakam.akamaized.net
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+# DOMAIN-SUFFIX,biliintl.com
+# DOMAIN,apm-misaka.biliapi.net
+# DOMAIN,p.bstarstatic.com
+# DOMAIN,p-bstarstatic.akamaized.net
+# DOMAIN,upos-bstar-mirrorakam.akamaized.net
+# DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 # > DAZN
 USER-AGENT,DAZN*
 DOMAIN-SUFFIX,dazn.com
@@ -152,10 +152,10 @@ DOMAIN-SUFFIX,encoretvb.com
 DOMAIN,edge.api.brightcove.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 # > Hami Video
-DOMAIN-SUFFIX,ott.hinet.net
-DOMAIN-SUFFIX,hamivideo.hinet.net
-DOMAIN,hls-hichannel.cdn.hinet.net
-DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+# DOMAIN-SUFFIX,ott.hinet.net
+# DOMAIN-SUFFIX,hamivideo.hinet.net
+# DOMAIN,hls-hichannel.cdn.hinet.net
+# DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
 # > HBO NOW & Max
 USER-AGENT,HBO%20NOW*
 DOMAIN-SUFFIX,hbo.com
@@ -225,12 +225,12 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN,kktv-theater.kk.stream
 DOMAIN,theater-kktv.cdn.hinet.net
 # > LINE TV
-USER-AGENT,LINE%20TV*
-DOMAIN-SUFFIX,linetv.tw
-DOMAIN,d3c7rimkq79yfu.cloudfront.net
+# USER-AGENT,LINE%20TV*
+# DOMAIN-SUFFIX,linetv.tw
+# DOMAIN,d3c7rimkq79yfu.cloudfront.net
 # > LiTV
-DOMAIN-SUFFIX,litv.tv
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+# DOMAIN-SUFFIX,litv.tv
+# DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 # > My5
 USER-AGENT,My5*
 DOMAIN-SUFFIX,channel5.com
@@ -315,22 +315,22 @@ DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 # > WeTV
-USER-AGENT,WeTV*
-DOMAIN-SUFFIX,wetv.vip
-DOMAIN-SUFFIX,wetvinfo.com
-IP-CIDR,150.109.28.51/32,no-resolve
+# USER-AGENT,WeTV*
+# DOMAIN-SUFFIX,wetv.vip
+# DOMAIN-SUFFIX,wetvinfo.com
+# IP-CIDR,150.109.28.51/32,no-resolve
 # > YouTube
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,withyoutube.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
+# USER-AGENT,com.google.ios.youtube*
+# USER-AGENT,YouTube*
+# DOMAIN-SUFFIX,googlevideo.com
+# DOMAIN-SUFFIX,withyoutube.com
+# DOMAIN-SUFFIX,youtu.be
+# DOMAIN-SUFFIX,youtube.com
+# DOMAIN-SUFFIX,youtubeeducation.com
+# DOMAIN-SUFFIX,youtubegaming.com
+# DOMAIN-SUFFIX,youtubekids.com
+# DOMAIN-SUFFIX,youtube-nocookie.com
+# DOMAIN-SUFFIX,yt.be
+# DOMAIN-SUFFIX,ytimg.com
+# DOMAIN,youtubei.googleapis.com
+# DOMAIN,yt3.ggpht.com
