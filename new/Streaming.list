@@ -48,11 +48,11 @@ USER-AGENT,YouTubeMusic*
 
 # (Podcast)
 # > Himalaya
-USER-AGENT,Himalaya*
-DOMAIN-SUFFIX,himalaya.com
+# USER-AGENT,Himalaya*
+# DOMAIN-SUFFIX,himalaya.com
 # > Overcast
-USER-AGENT,Overcast*
-DOMAIN-SUFFIX,overcast.fm
+# USER-AGENT,Overcast*
+# DOMAIN-SUFFIX,overcast.fm
 
 # (Video)
 # > AbemaTV
@@ -197,10 +197,10 @@ DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,hulu.jp
 # > ITV
-USER-AGENT,ITV_Player*
-DOMAIN-SUFFIX,itv.com
-DOMAIN-SUFFIX,itvstatic.com
-DOMAIN,itvpnpmobile-a.akamaihd.net
+# USER-AGENT,ITV_Player*
+# DOMAIN-SUFFIX,itv.com
+# DOMAIN-SUFFIX,itvstatic.com
+# DOMAIN,itvpnpmobile-a.akamaihd.net
 # > iQIYI
 # IP-CIDR,23.53.32.88/32,no-resolve
 # IP-CIDR,23.211.15.99/32,no-resolve
@@ -237,25 +237,25 @@ DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
 DOMAIN,d349g9zuie06uo.cloudfront.net
 # > myTV SUPER
-USER-AGENT,mytv*
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
+# USER-AGENT,mytv*
+# DOMAIN-SUFFIX,mytvsuper.com
+# DOMAIN-SUFFIX,tvb.com
 # > Naver TV
 USER-AGENT,Naver%20TV*
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
 # > Netflix
-USER-AGENT,Argo*
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
-DOMAIN-KEYWORD,netflixdnstest
-DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
-DOMAIN-KEYWORD,dualstack.apiproxy-
+# USER-AGENT,Argo*
+# DOMAIN-SUFFIX,netflix.com
+# DOMAIN-SUFFIX,netflix.net
+# DOMAIN-SUFFIX,nflxext.com
+# DOMAIN-SUFFIX,nflximg.com
+# DOMAIN-SUFFIX,nflximg.net
+# DOMAIN-SUFFIX,nflxso.net
+# DOMAIN-SUFFIX,nflxvideo.net
+# DOMAIN-KEYWORD,netflixdnstest
+# DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+# DOMAIN-KEYWORD,dualstack.apiproxy-
 # GEOIP,NETFLIX,no-resolve
 # > niconico
 USER-AGENT,Niconico*
