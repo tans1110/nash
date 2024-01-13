@@ -90,3 +90,11 @@ DOMAIN,theater-kktv.cdn.hinet.net
 USER-AGENT,LINE%20TV*
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
+
+# 4GTV
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,ftv.com.tw
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-KEYWORD,4gtv
+DOMAIN-SUFFIX,onead.com.tw
