@@ -178,7 +178,7 @@ DOMAIN,bcbolt446c5271-a.akamaihd.net
 # DOMAIN,hboasia3-i.akamaihd.net
 # DOMAIN,hboasia4-i.akamaihd.net
 # DOMAIN,hboasia5-i.akamaihd.net
-$ DOMAIN,hboasialive.akamaized.net
+# DOMAIN,hboasialive.akamaized.net
 # DOMAIN,hbogoprod-vod.akamaized.net
 # DOMAIN,hbolb.onwardsmg.com
 # DOMAIN,hbounify-prod.evergent.com
