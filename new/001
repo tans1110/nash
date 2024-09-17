@@ -23,8 +23,7 @@
     {
       "name": "体育直播",
       "url": "http://129.226.149.79:36699/down/OXm1EVMyAHqq.m3u?fname=",
-      "epg": "https://digital8.top/EPGslive.xml",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "https://digital8.top/EPGslive.xml"
     },
     {
       "name": "mytvsuper",
