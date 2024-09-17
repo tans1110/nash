@@ -1,0 +1,34 @@
+{
+  "lives": [
+    {
+      "name": "ETH",
+      "url": "http://176868.cloud/f616fc7810216903e4bc972fd46e62ff/83cd08447bc9f0fcb66ad42738ab789d/04b57c40247fe7ce602cf5cbb8b4ac5d/playlist.m3u"
+    },
+    {
+      "name": "stream-link",
+      "url": "https://www.stream-link.org/stream-link.m3u"
+    },
+    {
+      "name": "HamiVideo",
+      "url": "http://3.1.43.21:5000/hami.m3u"
+    },
+    {
+      "name": "4GTV",
+      "url": "http://aws.808848.xyz:5000/4gtv.m3u"
+    },
+    {
+      "name": "移动iTV",
+      "url": "http://3.1.43.21:5000/itv.m3u"
+    },
+    {
+      "name": "体育直播",
+      "url": "http://129.226.149.79:36699/down/OXm1EVMyAHqq.m3u?fname=",
+      "epg": "https://digital8.top/EPGslive.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "mytvsuper",
+      "url": "http://3.1.43.21:5000/mytvsuper.m3u"
+    },
+  ]
+}
