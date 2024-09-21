@@ -10,15 +10,15 @@
     },
     {
       "name": "HamiVideo",
-      "url": "http://3.1.43.21:5000/hami.m3u"
+      "url": "http://47.238.145.21:5000/hami.m3u"
     },
     {
       "name": "4GTV",
-      "url": "http://aws.808848.xyz:5000/4gtv.m3u"
+      "url": "http://47.238.145.21:5000/4gtv.m3u"
     },
     {
       "name": "移动iTV",
-      "url": "http://3.1.43.21:5000/itv.m3u"
+      "url": "http://47.238.145.21:5000/itv.m3u"
     },
     {
       "name": "体育直播",
@@ -27,7 +27,7 @@
     },
     {
       "name": "mytvsuper",
-      "url": "http://3.1.43.21:5000/mytvsuper.m3u"
+      "url": "http://47.238.145.21:5000/mytvsuper.m3u"
     }
   ]
 }
