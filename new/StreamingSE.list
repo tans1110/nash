@@ -1,16 +1,16 @@
 # > bilibili
-DOMAIN,api.biliapi.com
-DOMAIN,api.biliapi.net
-DOMAIN,api.bilibili.com
-DOMAIN,app.biliapi.com
-DOMAIN,app.biliapi.net
-DOMAIN,app.bilibili.com
-DOMAIN,grpc.biliapi.net
-DOMAIN,m.bilibili.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN,www.bilibili.com
-DOMAIN-KEYWORD,cn-hk-eq-bcache-
-DOMAIN-SUFFIX,bilivideo.com
+# DOMAIN,api.biliapi.com
+# DOMAIN,api.biliapi.net
+# DOMAIN,api.bilibili.com
+# DOMAIN,app.biliapi.com
+# DOMAIN,app.biliapi.net
+# DOMAIN,app.bilibili.com
+# DOMAIN,grpc.biliapi.net
+# DOMAIN,m.bilibili.com
+# DOMAIN,upos-hz-mirrorakam.akamaized.net
+# DOMAIN,www.bilibili.com
+# DOMAIN-KEYWORD,cn-hk-eq-bcache-
+# DOMAIN-SUFFIX,bilivideo.com
 # > 愛奇藝台灣站
 # > iQIYI
 DOMAIN-SUFFIX,iq.com
