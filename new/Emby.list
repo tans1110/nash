@@ -1,5 +1,5 @@
-# > 流媒体emby-nexitally服务器
-DOMAIN,emby.nexitally.com
+# > 流媒体nanflix
+DOMAIN-SUFFIX,nanflix.net
 
 # > 流媒体emby-date服务器
 # DOMAIN,2.emby.date
