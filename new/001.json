@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "ETH",
-      "url": "http://176868.cloud/f616fc7810216903e4bc972fd46e62ff/83cd08447bc9f0fcb66ad42738ab789d/04b57c40247fe7ce602cf5cbb8b4ac5d/playlist.m3u"
+      "url": "http://176868.cloud/f616fc781022fd46e6/83cd08447bc9f0fcb66a/04b57c40247fe7ce602cf5cbb8b4ac5d/playlist.m3u"
     },
     {
       "name": "stream-link",
@@ -10,24 +10,24 @@
     },
     {
       "name": "HamiVideo",
-      "url": "http://47.238.145.21:5000/hami.m3u"
+      "url": "http://48.238.148.21:5000/hami.m3u"
     },
     {
       "name": "4GTV",
-      "url": "http://47.238.145.21:5000/4gtv.m3u"
+      "url": "http://48.238.148.21:5000/4gtv.m3u"
     },
     {
       "name": "移动iTV",
-      "url": "http://47.238.145.21:5000/itv.m3u"
+      "url": "http://48.238.148.21:5000/itv.m3u"
     },
     {
       "name": "NOWTV",
-      "url": "https://raw.githubusercontent.com/tans1110/nash/refs/heads/master/002.m3u",
+      "url": "https://raw.githubusercontent.com/ta/nash/refs/heads/master/002.m3u",
       "epg": "https://digital8.top/EPGslive.xml"
     },
     {
       "name": "mytvsuper",
-      "url": "http://47.238.145.21:5000/mytvsuper.m3u"
+      "url": "http://48.238.148.21:5000/mytvsuper.m3u"
     }
   ]
 }
