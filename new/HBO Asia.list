@@ -1,5 +1,7 @@
 # > HBO Asia
 USER-AGENT,HBO%20GO%20PROD*
+USER-AGENT,HBO%20NOW*
+USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-KEYWORD,.hbogoasia.
@@ -18,3 +20,8 @@ DOMAIN,hbolb.onwardsmg.com
 DOMAIN,hbounify-prod.evergent.com
 DOMAIN,players.brightcove.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,prd.api.max.com
+DOMAIN-SUFFIX,media.max.com
+DOMAIN-SUFFIX,prd.api.discomax.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,max.com
