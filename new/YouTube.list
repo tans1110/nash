@@ -2,6 +2,7 @@
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
