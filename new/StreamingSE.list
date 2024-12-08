@@ -13,6 +13,7 @@
 # DOMAIN-SUFFIX,bilivideo.com
 # > 愛奇藝台灣站
 # > iQIYI
+DOMAIN-KEYWORD,iqiyi
 DOMAIN-SUFFIX,iq.com
 DOMAIN,intl.iqiyi.com
 DOMAIN,intl-rcd.iqiyi.com
