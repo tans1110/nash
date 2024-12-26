@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,ykk.emby.moe
 DOMAIN,emby.flowercloud.yt
 
 # > 流媒体emby-maying服务器
-DOMAIN,emby.maying.club
+# DOMAIN,emby.maying.club
 
 # > 流媒体emby-mdss服务器
 DOMAIN,emby.mdss.cloud
