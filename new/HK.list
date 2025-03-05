@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,cdn.tvb.com
 # > Now E
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowestatic.com
+DOMAIN-SUFFIX,pccw-live-cdn-01.akamaized.net
 
 # > ViuTV
 USER-AGENT,Viu*
