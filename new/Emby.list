@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,ykk.emby.moe
 
 # > 流媒体emby-date服务器
-# DOMAIN,2.emby.date
+DOMAIN-SUFFIX,rfc.uhdnow.com
 
 # > 流媒体emby-paoche服务器
 # DOMAIN,emby.cjpc.cc
