@@ -94,7 +94,7 @@ DOMAIN-SUFFIX,linetv.tw
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 
 # 4GTV
-// DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,ftv.com.tw
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
