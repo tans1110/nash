@@ -1,6 +1,6 @@
 DOMAIN-SUFFIX,stun.chat.bilibili.com,REJECT
 DOMAIN-SUFFIX,assets-cdn.jable.tv,Proxies
-DOMAIN-SUFFIX,locallive.tdm.com.mo,MO
+// DOMAIN-SUFFIX,locallive.tdm.com.mo,MO
 DOMAIN-SUFFIX,sntp.uk,Proxies
 DOMAIN-SUFFIX,rfc.uhdnow.com,US
 DOMAIN-SUFFIX,mushroomtrack.com,Proxies
