@@ -1,4 +1,5 @@
 # China Area Network
+PROCESS-NAME,com.qiyi.video
 DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
