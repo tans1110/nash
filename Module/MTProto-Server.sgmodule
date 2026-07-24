@@ -1,8 +1,10 @@
-#!name = Local MTProto Server
+#!name = MTProto Server
 #!desc = 开启 Surge 内置 MTProto 服务端，专供 Telegram 连接
 #!category = Surge Feature
-#!arguments = port:6000, secret:0123456789abcdef0123456789abcdef, enable_ipv6:true
-#!arguments-desc = port: 监听端口\nsecret: 32位 Hex 密钥\nenable_ipv6: 是否优先使用 IPv6
 
-[MTProto Server]
-mtproto-server = port=%port%, secret=%secret%, interface=127.0.0.1, ipv6=%enable_ipv6%
+[MTProto]
+interface = 127.0.0.1
+port = 5753
+secret = 0123456789abcdef0123456789abcdef
+ipv6 = true
+
