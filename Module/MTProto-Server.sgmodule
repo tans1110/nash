@@ -5,4 +5,4 @@
 #!arguments-desc = port: 监听端口\nsecret: 32位 Hex 密钥\nenable_ipv6: 是否优先使用 IPv6
 
 [MTProto Server]
-mtproto-server = port=%port%, secret=%secret%, interface=0.0.0.0, ipv6=%enable_ipv6%
+mtproto-server = port=%port%, secret=%secret%, interface=127.0.0.1, ipv6=%enable_ipv6%
