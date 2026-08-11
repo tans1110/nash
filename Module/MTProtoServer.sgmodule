@@ -3,7 +3,7 @@
 #!category = Surge Feature
 
 [MTProto]
-interface = 127.0.0.1
+interface = 0.0.0.0
 port = 5753
 secret = 0123456789abcdef0123456789abcdef
 ipv6 = true
