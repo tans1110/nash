@@ -1,0 +1,5 @@
+#!name=Ponte Rule
+#!desc=将 192.168.100.0/24 绑定至 DEVICE:ATV7 出站
+
+[Rule]
+IP-CIDR,192.168.100.0/24,DEVICE:ATV7,no-resolve
